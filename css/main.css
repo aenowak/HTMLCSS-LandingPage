@@ -153,10 +153,9 @@ section {
 
 .hero {
     background-image: url('../img/hero.jpg');
-    background-repeat: no-repeat;
     height: 400px;
     background-size: cover;
-    background-position: center;
+    background-position: center center;
     text-transform: uppercase;
 }
 
@@ -179,7 +178,7 @@ section {
     letter-spacing: 2px;
     font-weight: 700;
     font-size: 21px;
-    margin: 0 0 10px 0;
+    margin: 0 0 10px;
 }
 
 .banner {
